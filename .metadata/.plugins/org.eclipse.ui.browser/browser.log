@@ -1,0 +1,309 @@
+
+thg 5 04, 2019 24:22:01.73 NEW SESSION
+thg 5 04, 2019 24:22:01.73 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:01.75 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:01.88 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:01.88 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:02.45 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:02.46 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:04.04 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:04.06 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:09.21 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:09.23 [GFX1-]: WMF VPX video decoding is disabled due to a previous crash.
+thg 5 04, 2019 24:22:45.86 [Parent 476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:10.62 [Child 6936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:10.65 [Child 6936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Parent 476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:10.71 
+thg 5 04, 2019 24:29:10.78 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.79 
+thg 5 04, 2019 24:29:10.80 
+thg 5 04, 2019 24:29:10.80 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.80 
+thg 5 04, 2019 24:29:10.81 
+thg 5 04, 2019 24:29:10.81 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.81 
+thg 5 04, 2019 24:29:10.81 
+thg 5 04, 2019 24:29:10.81 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.82 
+thg 5 04, 2019 24:29:10.82 
+thg 5 04, 2019 24:29:10.83 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.83 
+thg 5 04, 2019 24:29:10.84 [Child 10340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:10.84 [Child 10340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:10.84 
+thg 5 04, 2019 24:29:10.87 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.87 
+thg 5 04, 2019 24:29:10.89 
+thg 5 04, 2019 24:29:10.89 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.89 
+thg 5 04, 2019 24:29:10.89 [Parent 476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:10.90 
+thg 5 04, 2019 24:29:10.91 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.91 
+thg 5 04, 2019 24:29:10.91 
+thg 5 04, 2019 24:29:10.92 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.92 
+thg 5 04, 2019 24:29:10.92 
+thg 5 04, 2019 24:29:10.92 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.93 
+thg 5 04, 2019 24:29:10.93 [Parent 476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:10.93 
+thg 5 04, 2019 24:29:10.94 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.94 
+thg 5 04, 2019 24:29:10.95 
+thg 5 04, 2019 24:29:10.95 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.96 
+thg 5 04, 2019 24:29:10.97 
+thg 5 04, 2019 24:29:10.97 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:10.97 
+thg 5 04, 2019 24:29:10.97 
+thg 5 04, 2019 24:29:10.99 ###!!! [Child][MessageChannel] Error: (msgtype=0x370001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.01 
+thg 5 04, 2019 24:29:11.01 [Parent 476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:11.01 
+thg 5 04, 2019 24:29:11.01 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.02 
+thg 5 04, 2019 24:29:11.02 
+thg 5 04, 2019 24:29:11.02 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.02 
+thg 5 04, 2019 24:29:11.03 
+thg 5 04, 2019 24:29:11.03 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.03 
+thg 5 04, 2019 24:29:11.04 
+thg 5 04, 2019 24:29:11.04 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.05 
+thg 5 04, 2019 24:29:11.05 [Parent 476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:11.05 
+thg 5 04, 2019 24:29:11.05 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.05 
+thg 5 04, 2019 24:29:11.05 
+thg 5 04, 2019 24:29:11.05 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.05 
+thg 5 04, 2019 24:29:11.06 
+thg 5 04, 2019 24:29:11.06 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.06 
+thg 5 04, 2019 24:29:11.06 
+thg 5 04, 2019 24:29:11.06 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.06 
+thg 5 04, 2019 24:29:11.06 
+thg 5 04, 2019 24:29:11.07 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.07 
+thg 5 04, 2019 24:29:11.07 [Child
+thg 5 04, 2019 24:29:11.07 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.07 
+thg 5 04, 2019 24:29:11.07 
+thg 5 04, 2019 24:29:11.07 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.07 
+thg 5 04, 2019 24:29:11.08  15[3Child 4924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/6
+thg 5 04, 2019 24:29:11.08 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.08 
+thg 5 04, 2019 24:29:11.08 , Chrome
+thg 5 04, 2019 24:29:11.08 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.08 
+thg 5 04, 2019 24:29:11.09 build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 33_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3322
+thg 5 04, 2019 24:29:11.09 
+thg 5 04, 2019 24:29:11.12 [Child 4924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[rChild 1536c/ipc, Ch/chromroium/src/chrome/me_ChildThread] WARNING: pipe error: 109: file z:/cbommon/ipc_channel_win.cc, line 332u
+thg 5 04, 2019 24:29:11.13 ild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:11.13 
+thg 5 04, 2019 24:29:11.14 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.14 
+thg 5 04, 2019 24:29:11.15 
+thg 5 04, 2019 24:29:11.16 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.16 
+thg 5 04, 2019 24:29:11.16 
+thg 5 04, 2019 24:29:11.17 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.17 
+thg 5 04, 2019 24:29:11.18 
+thg 5 04, 2019 24:29:11.18 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.19 
+thg 5 04, 2019 24:29:11.19 
+thg 5 04, 2019 24:29:11.19 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.19 
+thg 5 04, 2019 24:29:11.19 
+thg 5 04, 2019 24:29:11.20 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.20 
+thg 5 04, 2019 24:29:11.20 
+thg 5 04, 2019 24:29:11.21 ###!!! [Child][MessageChannel] Error: (msgtype=0x3500FF,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.21 
+thg 5 04, 2019 24:29:11.21 
+thg 5 04, 2019 24:29:11.22 ###!!! [Child][MessageChannel] Error: (msgtype=0x3500FF,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.22 
+thg 5 04, 2019 24:29:11.22 
+thg 5 04, 2019 24:29:11.22 ###!!! [Child][MessageChannel] Error: (msgtype=0x3500FF,name=PContent::Msg_UnstoreAndBroadcastBlobURLUnregistration) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.22 
+thg 5 04, 2019 24:29:11.23 
+thg 5 04, 2019 24:29:11.23 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.23 
+thg 5 04, 2019 24:29:11.23 
+thg 5 04, 2019 24:29:11.23 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.24 
+thg 5 04, 2019 24:29:11.24 
+thg 5 04, 2019 24:29:11.24 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.24 
+thg 5 04, 2019 24:29:11.25 
+thg 5 04, 2019 24:29:11.25 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.25 
+thg 5 04, 2019 24:29:11.25 
+thg 5 04, 2019 24:29:11.25 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.26 
+thg 5 04, 2019 24:29:11.26 
+thg 5 04, 2019 24:29:11.26 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.26 
+thg 5 04, 2019 24:29:11.26 
+thg 5 04, 2019 24:29:11.27 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.27 
+thg 5 04, 2019 24:29:11.27 
+thg 5 04, 2019 24:29:11.27 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.27 
+thg 5 04, 2019 24:29:11.27 
+thg 5 04, 2019 24:29:11.27 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.28 
+thg 5 04, 2019 24:29:11.28 
+thg 5 04, 2019 24:29:11.28 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.28 
+thg 5 04, 2019 24:29:11.28 
+thg 5 04, 2019 24:29:11.28 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.29 
+thg 5 04, 2019 24:29:11.29 
+thg 5 04, 2019 24:29:11.29 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.29 
+thg 5 04, 2019 24:29:11.29 
+thg 5 04, 2019 24:29:11.29 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.30 
+thg 5 04, 2019 24:29:11.30 
+thg 5 04, 2019 24:29:11.30 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.30 
+thg 5 04, 2019 24:29:11.30 
+thg 5 04, 2019 24:29:11.30 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.30 
+thg 5 04, 2019 24:29:11.31 
+thg 5 04, 2019 24:29:11.31 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.31 
+thg 5 04, 2019 24:29:11.31 
+thg 5 04, 2019 24:29:11.31 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.31 
+thg 5 04, 2019 24:29:11.31 
+thg 5 04, 2019 24:29:11.32 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.32 
+thg 5 04, 2019 24:29:11.32 
+thg 5 04, 2019 24:29:11.32 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.32 
+thg 5 04, 2019 24:29:11.32 
+thg 5 04, 2019 24:29:11.32 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.32 
+thg 5 04, 2019 24:29:11.32 
+thg 5 04, 2019 24:29:11.33 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.33 
+thg 5 04, 2019 24:29:11.33 
+thg 5 04, 2019 24:29:11.33 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.33 
+thg 5 04, 2019 24:29:11.33 
+thg 5 04, 2019 24:29:11.33 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.33 
+thg 5 04, 2019 24:29:11.34 
+thg 5 04, 2019 24:29:11.34 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.34 
+thg 5 04, 2019 24:29:11.34 
+thg 5 04, 2019 24:29:11.34 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.34 
+thg 5 04, 2019 24:29:11.34 
+thg 5 04, 2019 24:29:11.34 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.34 
+thg 5 04, 2019 24:29:11.35 
+thg 5 04, 2019 24:29:11.35 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.35 
+thg 5 04, 2019 24:29:11.35 
+thg 5 04, 2019 24:29:11.35 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.35 
+thg 5 04, 2019 24:29:11.35 
+thg 5 04, 2019 24:29:11.35 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.35 
+thg 5 04, 2019 24:29:11.36 
+thg 5 04, 2019 24:29:11.36 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.36 
+thg 5 04, 2019 24:29:11.36 
+thg 5 04, 2019 24:29:11.36 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.36 
+thg 5 04, 2019 24:29:11.36 [Parent 476
+thg 5 04, 2019 24:29:11.37 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.37 
+thg 5 04, 2019 24:29:11.37 , Gecko_IOThread] WARNING: pip
+thg 5 04, 2019 24:29:11.37 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.37 
+thg 5 04, 2019 24:29:11.37 e error: 
+thg 5 04, 2019 24:29:11.37 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.37 
+thg 5 04, 2019 24:29:11.38 109: file
+thg 5 04, 2019 24:29:11.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.38 
+thg 5 04, 2019 24:29:11.38  z:/build/build/src/ipc/chro
+thg 5 04, 2019 24:29:11.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.38 
+thg 5 04, 2019 24:29:11.38 mium/src
+thg 5 04, 2019 24:29:11.38 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.38 
+thg 5 04, 2019 24:29:11.38 /chrome/common/ip
+thg 5 04, 2019 24:29:11.39 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.39 
+thg 5 04, 2019 24:29:11.39 c_channel_win.cc, l
+thg 5 04, 2019 24:29:11.39 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.39 
+thg 5 04, 2019 24:29:11.39 ine 332
+thg 5 04, 2019 24:29:11.39 
+thg 5 04, 2019 24:29:11.39 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.40 
+thg 5 04, 2019 24:29:11.40 
+thg 5 04, 2019 24:29:11.40 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.40 
+thg 5 04, 2019 24:29:11.40 
+thg 5 04, 2019 24:29:11.40 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.40 
+thg 5 04, 2019 24:29:11.41 
+thg 5 04, 2019 24:29:11.41 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.41 
+thg 5 04, 2019 24:29:11.41 
+thg 5 04, 2019 24:29:11.41 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.42 
+thg 5 04, 2019 24:29:11.42 
+thg 5 04, 2019 24:29:11.42 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.42 
+thg 5 04, 2019 24:29:11.42 
+thg 5 04, 2019 24:29:11.42 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.42 
+thg 5 04, 2019 24:29:11.43 
+thg 5 04, 2019 24:29:11.43 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.43 
+thg 5 04, 2019 24:29:11.43 [Child 7100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+thg 5 04, 2019 24:29:11.44 
+thg 5 04, 2019 24:29:11.44 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.44 
+thg 5 04, 2019 24:29:11.44 
+thg 5 04, 2019 24:29:11.44 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.44 
+thg 5 04, 2019 24:29:11.45 
+thg 5 04, 2019 24:29:11.45 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.50 
+thg 5 04, 2019 24:29:11.52 
+thg 5 04, 2019 24:29:11.53 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.53 
+thg 5 04, 2019 24:29:11.54 
+thg 5 04, 2019 24:29:11.54 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.54 
+thg 5 04, 2019 24:29:11.55 
+thg 5 04, 2019 24:29:11.55 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.55 
+thg 5 04, 2019 24:29:11.55 
+thg 5 04, 2019 24:29:11.55 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.55 
+thg 5 04, 2019 24:29:11.56 
+thg 5 04, 2019 24:29:11.56 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.56 
+thg 5 04, 2019 24:29:11.56 
+thg 5 04, 2019 24:29:11.56 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.57 
+thg 5 04, 2019 24:29:11.58 
+thg 5 04, 2019 24:29:11.58 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.58 
+thg 5 04, 2019 24:29:11.58 
+thg 5 04, 2019 24:29:11.58 ###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+thg 5 04, 2019 24:29:11.58 
